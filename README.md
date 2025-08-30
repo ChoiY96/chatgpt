@@ -1,0 +1,2 @@
+# chatgpt
+最新ChatGPT会员开通教程：2025年如何注册ChatGPT帐号？如何购买ChatGPT plus/pro 会员？我们这篇ChatGPT教程将为大家详细解答这些问题。同时，我们还会为大家推荐几个最可靠的可以购买ChatGPT的虚拟信用卡平台，帮助大家快速获取专属的ChatGPT会员。 
