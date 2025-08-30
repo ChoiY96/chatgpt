@@ -66,7 +66,7 @@
 4. 选择美国、香港、日本等地区的 IP 节点，推荐美国 IP，稳定性最好。  
 5. 通过手机验证码验证。国内手机号大多无法使用，建议选择 Google Voice 或接码平台。  
 6. 注册成功后，点击左下角或右上角的 **“升级套餐”** 按钮，准备开通 ChatGPT Plus。  
-
+![CG01](https://github.com/ChoiY96/chatgpt/raw/main/CG01.png)
 ---
 
 ## ✅ 五、绑定虚拟信用卡支付  
@@ -80,7 +80,7 @@
    - **账单地址**：卡管理里面也有分配一个地址，直接获取即可
 3. 点击提交付款，系统会先预授权 \$1~\$3 美金，之后会自动退回。  
 4. 支付完成后，你会看到 **Your Plan: ChatGPT Plus** 的提示，说明订阅成功。  
-
+![CG02](https://github.com/ChoiY96/chatgpt/raw/main/CG02.png)
 ---
 
 ## ✅ 六、验证是否开通成功  
@@ -90,7 +90,7 @@
 - 左下角显示 **ChatGPT Plus** 标识  
 - 可以使用 GPT-4 模型  
 - 支持插件功能、自定义 GPTs、上传文件等 Plus 专属特权  
-
+![CG03](https://github.com/ChoiY96/chatgpt/raw/main/CG03.png)
 ---
 
 ## ✅ 七、常见问题及解决方案  
